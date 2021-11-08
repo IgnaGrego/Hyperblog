@@ -49,4 +49,13 @@ body
 {
     background: white;
     padding: 1em;
+    text-align: center;
+}
+
+#footer 
+{
+    background: blue;
+    padding: 1em;
+    text-align: center;
+
 }
